@@ -34,5 +34,5 @@ This action could indicate a provisioning activity or a new project setup.
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```

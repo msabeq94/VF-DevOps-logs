@@ -34,5 +34,5 @@ This action could indicate a configuration update or a scaling down of resources
 Please review this deletion in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```

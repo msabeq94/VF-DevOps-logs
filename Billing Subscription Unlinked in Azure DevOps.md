@@ -34,5 +34,5 @@ This action could indicate a change in financial configurations or subscription 
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```

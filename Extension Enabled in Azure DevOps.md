@@ -34,5 +34,5 @@ This action could indicate a functionality change or configuration update.
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```

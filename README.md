@@ -109,7 +109,7 @@ This action could indicate a change in automation workflows or configuration upd
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```
 ### License
 

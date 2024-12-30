@@ -35,5 +35,5 @@ This action could indicate an update to automation workflows or configuration ch
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```

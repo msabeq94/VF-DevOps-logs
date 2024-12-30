@@ -34,5 +34,5 @@ This action could indicate a team deprovisioning activity or configuration updat
 Please review this activity in your Log Analytics Workspace for more information.
 
 Regards,  
-Azure Monitoring Team
+Vodafone Azure DevOps Team
 ```
