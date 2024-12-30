@@ -111,12 +111,6 @@ Please review this activity in your Log Analytics Workspace for more information
 Regards,  
 Azure Monitoring Team
 ```
-```
-
-## Contributing
-
-If you would like to contribute to this repository, please fork the repository and submit a pull request with your changes.
-
-## License
+### License
 
 This project is licensed under the MIT License .
