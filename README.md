@@ -17,6 +17,7 @@ The repository is organized as follows, with each file representing an audited e
 ├── Modify or Remove Access Control Lists in Azure DevOps.md
 ├── Modify or Remove Permissions in Azure DevOps.md
 ├── Organization Operations in Azure DevOps.md
+├── Organization Policy Operations in Azure DevOps.md
 ├── PAT Operations in Azure DevOps.md
 ├── Pipeline Operations in Azure DevOps.md
 ├── SSH Key Operations in Azure DevOps.md
